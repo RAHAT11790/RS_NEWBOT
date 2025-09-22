@@ -9,9 +9,9 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # ====== CONFIG: বদলে দিন ======
-API_ID = 123456           # my.telegram.org থেকে নেওয়া API_ID
-API_HASH = "your_api_hash"
-BOT_TOKEN = "12345:ABCDEF..."  # @BotFather থেকে পাওয়া bot token
+API_ID = 25976192           # my.telegram.org থেকে নেওয়া API_ID
+API_HASH = "8ba23141980539b4896e5adbc4ffd2e2"
+BOT_TOKEN = "8257089548:AAG3hpoUToom6a71peYep-DBfgPiKU3wPGE"  # @BotFather থেকে পাওয়া bot token
 # ==============================
 
 RS_USERNAMES = [None, None, None]  # আপনার সেট করা তিনটি ইউজারনেম
